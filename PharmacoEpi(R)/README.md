@@ -1,0 +1,22 @@
+This is the file folder for R codes of  the following functions:
+
+-  001: imputation
+-  002: data_tidy_process
+-  003: ipw_truncation
+-  004: dataset_with_iptw_generation
+-  005: dataset_with_ipcw_generation 
+- 006: causal_effect_estimation
+- 007: subgroup_causal_effect_estimation 
+- 008: bootstrap_sample_generation
+- 009: bootstrap_estimation_with_subgroup
+- 010: bootstrap_estimation_nosub 
+- 011: results_process_with_subgroup 
+- 012: results_process_nosub
+- 013: boot_pval
+- 014: exactPoiCI
+- 015: incid_num_weighted
+- 016: incid_num_weighted_subgroup
+- 017: HR_display
+- 018: OR_tidy
+- 019: NA_table
+- 020: summ
