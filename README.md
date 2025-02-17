@@ -1,1 +1,3 @@
-# Programming function for PharmacoEpi
+Programming function for PharmacoEpi, including:
+- R
+  
