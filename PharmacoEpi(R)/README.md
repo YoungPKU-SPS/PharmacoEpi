@@ -1,4 +1,4 @@
-This is the file folder for R codes includes following functions:
+This is the file folder for R codes including following functions:
 
 -  001: imputation
 -  002: data_tidy_process
